@@ -342,7 +342,7 @@ Palavra - %s\t''' % (nome_vida1, vida1, nome_vida2, vida2, jogador1, pontos_j1 ,
                 print(letras_repetidas)
             elif vida1 == 3 and vida2 == 1:
                 os.system('cls')
-                print(r'''            %s- %d Vidas                                        %s- %d Vidas
+                print('''            %s- %d Vidas                                        %s- %d Vidas
  ___________                                         ___________ 
 |=|=X===x==|/                                    |#||=|=X===x==|/ 
 |=|//   ¿                                        |#||=|//   ¿    
@@ -359,7 +359,7 @@ Palavra - %s\t''' % (nome_vida1, vida1, nome_vida2, vida2, jogador1, pontos_j1 ,
                 print(letras_repetidas)
             elif (vida1 == 3 and vida2 == 0):
                 os.system('cls')
-                print(r'''            %s- %d Vidas                                        %s- %d Vidas
+                print('''            %s- %d Vidas                                        %s- %d Vidas
  ___________                                         ___________ 
 |=|=X===x==|/                                    |#||=|=X===x==|/ 
 |=|//   ¿                                        |#||=|//   ¿    
@@ -376,7 +376,7 @@ Palavra - %s\t''' % (nome_vida1, vida1, nome_vida2, vida2, jogador1, pontos_j1 ,
                 print(letras_repetidas)
             elif (vida1 == 2 and vida2 == 1):
                 os.system('cls')
-                print(r'''            %s- %d Vidas                                        %s- %d Vidas
+                print('''            %s- %d Vidas                                        %s- %d Vidas
  ___________                                         ___________ 
 |=|=X===x==|/                                    |#||=|=X===x==|/ 
 |=|//   ¿                                        |#||=|//   ¿    
@@ -393,7 +393,7 @@ Palavra - %s\t''' % (nome_vida1, vida1, nome_vida2, vida2, jogador1, pontos_j1 ,
                 print(letras_repetidas)
             elif (vida1 == 2 and vida2 == 0):
                 os.system('cls')
-                print(r'''            %s- %d Vidas                                        %s- %d Vidas
+                print('''            %s- %d Vidas                                        %s- %d Vidas
  ___________                                         ___________ 
 |=|=X===x==|/                                    |#||=|=X===x==|/ 
 |=|//   ¿                                        |#||=|//   ¿    
@@ -410,7 +410,7 @@ Palavra - %s\t''' % (nome_vida1, vida1, nome_vida2, vida2, jogador1, pontos_j1 ,
                 print(letras_repetidas)
             elif (vida1 == 1 and vida2 == 3):
                 os.system('cls')
-                print(r'''            %s- %d Vidas                                        %s- %d Vidas
+                print('''            %s- %d Vidas                                        %s- %d Vidas
  ___________                                         ___________ 
 |=|=X===x==|/                                    |#||=|=X===x==|/ 
 |=|//   ¿                                        |#||=|//   ¿    
@@ -427,7 +427,7 @@ Palavra - %s\t''' % (nome_vida1, vida1, nome_vida2, vida2, jogador1, pontos_j1 ,
                 print(letras_repetidas)
             elif (vida1 == 1 and vida2 == 2):
                 os.system('cls')
-                print(r'''            %s- %d Vidas                                        %s- %d Vidas
+                print('''            %s- %d Vidas                                        %s- %d Vidas
  ___________                                         ___________ 
 |=|=X===x==|/                                    |#||=|=X===x==|/ 
 |=|//   ¿                                        |#||=|//   ¿    
@@ -444,7 +444,7 @@ Palavra - %s\t''' % (nome_vida1, vida1, nome_vida2, vida2, jogador1, pontos_j1 ,
                 print(letras_repetidas)
             elif vida1 == 1 and vida2 == 1:
                 os.system('cls')
-                print(r'''            %s- %d Vidas                                        %s- %d Vidas
+                print('''            %s- %d Vidas                                        %s- %d Vidas
  ___________                                         ___________ 
 |=|=X===x==|/                                    |#||=|=X===x==|/ 
 |=|//   ¿                                        |#||=|//   ¿    
@@ -461,7 +461,7 @@ Palavra - %s\t''' % (nome_vida1, vida1, nome_vida2, vida2, jogador1, pontos_j1 ,
                 print(letras_repetidas)
             elif vida1 == 1 and vida2 == 0:
                 os.system('cls')
-                print(r'''            %s- %d Vidas                                        %s- %d Vidas
+                print('''            %s- %d Vidas                                        %s- %d Vidas
  ___________                                         ___________ 
 |=|=X===x==|/                                    |#||=|=X===x==|/ 
 |=|//   ¿                                        |#||=|//   ¿    
@@ -478,7 +478,7 @@ Palavra - %s\t''' % (nome_vida1, vida1, nome_vida2, vida2, jogador1, pontos_j1 ,
                 print(letras_repetidas)
             elif vida1 == 0 and vida2 == 3:
                 os.system('cls')
-                print(r'''            %s- %d Vidas                                        %s- %d Vidas
+                print('''            %s- %d Vidas                                        %s- %d Vidas
  ___________                                         ___________ 
 |=|=X===x==|/                                    |#||=|=X===x==|/ 
 |=|//   ¿                                        |#||=|//   ¿    
@@ -495,7 +495,7 @@ Palavra - %s\t''' % (nome_vida1, vida1, nome_vida2, vida2, jogador1, pontos_j1 ,
                 print(letras_repetidas)
             elif vida1 == 0 and vida2 == 2:
                 os.system('cls')
-                print(r'''            %s- %d Vidas                                        %s- %d Vidas
+                print('''            %s- %d Vidas                                        %s- %d Vidas
  ___________                                         ___________ 
 |=|=X===x==|/                                    |#||=|=X===x==|/ 
 |=|//   ¿                                        |#||=|//   ¿    
@@ -512,7 +512,7 @@ Palavra - %s\t''' % (nome_vida1, vida1, nome_vida2, vida2, jogador1, pontos_j1 ,
                 print(letras_repetidas)
             elif vida1 == 0 and vida2 == 1:
                 os.system('cls')
-                print(r'''            %s- %d Vidas                                        %s- %d Vidas
+                print('''            %s- %d Vidas                                        %s- %d Vidas
  ___________                                         ___________ 
 |=|=X===x==|/                                    |#||=|=X===x==|/ 
 |=|//   ¿                                        |#||=|//   ¿    
@@ -658,7 +658,7 @@ Palavra - %s\t''' % (nome_vida1, vida1, nome_vida2, vida2, jogador1, pontos_j1 ,
                 print(letras_repetidas)
             elif vida1 == 2 and vida2 == 2:
                 os.system('cls')
-                print(r'''            %s- %d Vidas                                        %s- %d Vidas
+                print('''            %s- %d Vidas                                        %s- %d Vidas
  ___________                                         ___________ 
 |=|=X===x==|/                                    |#||=|=X===x==|/ 
 |=|//   ¿                                        |#||=|//   ¿    
@@ -743,7 +743,7 @@ Palavra - %s''' % (nome_vida1, vida1, nome_vida2, vida2, jogador1, pontos_j1 ,jo
                 print(letras_repetidas)
             elif vida1 == 1 and vida2 == 3:
                 os.system('cls')
-                print(r'''            %s- %d Vidas                                        %s- %d Vidas
+                print('''            %s- %d Vidas                                        %s- %d Vidas
  ___________                                         ___________ 
 |=|=X===x==|/                                    |#||=|=X===x==|/ 
 |=|//   ¿                                        |#||=|//   ¿    
@@ -760,7 +760,7 @@ Palavra - %s\t''' % (nome_vida1, vida1, nome_vida2, vida2, jogador1, pontos_j1 ,
                 print(letras_repetidas)
             elif vida1 == 1 and vida2 == 2:
                 os.system('cls')
-                print(r'''            %s- %d Vidas                                        %s- %d Vidas
+                print('''            %s- %d Vidas                                        %s- %d Vidas
  ___________                                         ___________ 
 |=|=X===x==|/                                    |#||=|=X===x==|/ 
 |=|//   ¿                                        |#||=|//   ¿    
@@ -777,7 +777,7 @@ Palavra - %s\t''' % (nome_vida1, vida1, nome_vida2, vida2, jogador1, pontos_j1 ,
                 print(letras_repetidas)
             elif vida1 == 1 and vida2 == 1:
                 os.system('cls')
-                print(r'''            %s- %d Vidas                                        %s- %d Vidas
+                print('''            %s- %d Vidas                                        %s- %d Vidas
  ___________                                         ___________ 
 |=|=X===x==|/                                    |#||=|=X===x==|/ 
 |=|//   ¿                                        |#||=|//   ¿    
@@ -794,7 +794,7 @@ Palavra - %s\t''' % (nome_vida1, vida1, nome_vida2, vida2, jogador1, pontos_j1, 
                 print(letras_repetidas)
             elif vida1 == 1 and vida2 == 0:
                 os.system('cls')
-                print(r'''            %s- %d Vidas                                        %s- %d Vidas
+                print('''            %s- %d Vidas                                        %s- %d Vidas
  ___________                                         ___________ 
 |=|=X===x==|/                                    |#||=|=X===x==|/ 
 |=|//   ¿                                        |#||=|//   ¿    
@@ -811,7 +811,7 @@ Palavra - %s\t''' % (nome_vida1, vida1, nome_vida2, vida2, jogador1, pontos_j1, 
                 print(letras_repetidas)
             elif vida1 == 0 and vida2 == 3:
                 os.system('cls')
-                print(r'''            %s- %d Vidas                                        %s- %d Vidas
+                print('''            %s- %d Vidas                                        %s- %d Vidas
  ___________                                         ___________ 
 |=|=X===x==|/                                    |#||=|=X===x==|/ 
 |=|//   ¿                                        |#||=|//   ¿    
@@ -828,7 +828,7 @@ Palavra - %s\t''' % (nome_vida1, vida1, nome_vida2, vida2, jogador1, pontos_j1, 
                 print(letras_repetidas)
             elif vida1 == 0 and vida2 == 2:
                 os.system('cls')
-                print(r'''            %s- %d Vidas                                        %s- %d Vidas
+                print('''            %s- %d Vidas                                        %s- %d Vidas
  ___________                                         ___________ 
 |=|=X===x==|/                                    |#||=|=X===x==|/ 
 |=|//   ¿                                        |#||=|//   ¿    
@@ -845,7 +845,7 @@ Palavra - %s\t''' % (nome_vida1, vida1, nome_vida2, vida2, jogador1, pontos_j1, 
                 print(letras_repetidas)
             elif vida1 == 0 and vida2 == 1:
                 os.system('cls')
-                print(r'''            %s- %d Vidas                                        %s- %d Vidas
+                print('''            %s- %d Vidas                                        %s- %d Vidas
  ___________                                         ___________ 
 |=|=X===x==|/                                    |#||=|=X===x==|/ 
 |=|//   ¿                                        |#||=|//   ¿    
