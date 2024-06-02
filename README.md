@@ -1,0 +1,1 @@
+Jogo desenvolvido por: Pedro Augusto Rotta e Silva, Luiz Carlos, Ryan Correa Morais
